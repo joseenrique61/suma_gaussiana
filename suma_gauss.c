@@ -5,7 +5,7 @@ int suma_repetitiva();
 int main() 
 {
     int num;
-    printf("Ingrese un numero:");
+    printf("Ingrese un numero: ");
     scanf("%i", &num);
     
     printf("Suma Gaussiana: %i\n", suma_gauss(num));
